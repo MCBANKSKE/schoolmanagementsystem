@@ -29,16 +29,16 @@ A comprehensive web-based school management system built with React and Tailwind
 ## Screenshots  
 
 ### Landing Page  
-![Landing Page](\images\landing.PNG)  
+![Landing Page](images\landing.PNG)  
 
 ### Login Page  
-![Login Page](\images\loginpage.PNG)  
+![Login Page](images\loginpage.PNG)  
 
 ### Student Portal  
-![Student Portal](\images\studentportal.PNG)  
+![Student Portal](images\studentportal.PNG)  
 
 ### Teacher Portal  
-![Teacher Portal](\images\teacherportal.PNG)  
+![Teacher Portal](images\teacherportal.PNG)  
 
 ## Dependencies  
 
